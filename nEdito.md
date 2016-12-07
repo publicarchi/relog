@@ -1,8 +1,8 @@
 ---
-@title Édito
-@author Emmanuel Château-Dutier
-@since 2016-12-06
-@note test pour les métadonnées
+Title: Édito
+Author: Emmanuel Château-Dutier
+Since: 2016-12-06
+Note: test pour les métadonnées
 ---
 
 # Édito
