@@ -19,6 +19,6 @@ L’individualisation intrinsèque au modèle du blogging et le caractère à la
 
 ## Un espace de travail plutôt qu’un blog
 
-Plutôt qu’une publication solitaire, nous voudrions aussi parvenir à constituer un espace de travail collectif. Au delà de la table ouverte, cette publication sera donc un blog sans un être tout à fait un. Nous l’envisageons plutôt comme un carnet de recherche hypertextuel dont les notes seraient versionnées. 
+Plutôt qu’une publication solitaire, nous voudrions aussi parvenir à constituer un espace de travail collectif. Au delà de la table ouverte, cette publication sera donc un blog sans un être tout à fait un. Nous l’envisageons plutôt comme un carnet de recherche hypertextuel dont les notes seraient versionnées.
 
-Il s’agit aussi d’expérimenter de nouvelles formes de distribution des résultats de recherche en veillant à définir des cadres de diffusion automatisés de l’information scientifique. Au delà du présent carnet de recherche, le projet consiste également à mettre en place une infrastructure de production collective de connaissances historiques sur l’architecture publique. 
+Il s’agit aussi d’expérimenter de nouvelles formes de distribution des résultats de recherche en veillant à définir des cadres de diffusion automatisés de l’information scientifique. Au delà du présent carnet de recherche, le projet consiste également à mettre en place une infrastructure de production collective de connaissances historiques sur l’architecture publique.
