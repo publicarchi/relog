@@ -6,6 +6,18 @@ Certains comme [François-Ronan Dubois](http://contagions.hypotheses.org/242), a
 
 Dans le domaine des humanités numériques, le Manifeste des Humanités numériques soulève clairement le problème disciplinaire. Courant épistémologique ou méta-discipline, c’est selon, la définition du statut des Humanités numériques a largement occupé ses acteurs.
 
+## Sur le plan politique
+
+## Sur le plan des thématiques
+
+Sciences humaines et sociales, et humanités. cf. http://contagions.hypotheses.org/242
+Interdisciplinarité
+Transdiscipline
+
+Cadrage par objet --> renforce identité méthodique, l’objet qui fait la synthèse ? versus interdisciplinarité = modification des méthodes par leur hybridation.
+
+## Sur le plan des outils
+
 
 
 
