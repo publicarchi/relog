@@ -21,5 +21,7 @@ Rédiger note orientée dans direction projet
 - [The FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples)
 - http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
 - [DMP OPIDoR](https://dmp.opidor.fr/about_us)
+- [Assistant PG Portage (Association des bibliothèques de recherche du Canada (ABRC))](https://portagenetwork.ca/fr/)
+- [Guide de gestion de données de recherche BibUdeM](http://guides.bib.umontreal.ca/disciplines/500)
 
 [1] Dans le cadre de l’Appel à projet européen Horizon 2020, les projets de recherche doivent adopter un plan de gestion de données. Par ailleurs un programme pilote intitulé Open Research Data ORD a été mis en place. cf. http://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf
