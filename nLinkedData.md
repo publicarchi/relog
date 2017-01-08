@@ -8,9 +8,14 @@ Dans une telle perspective, les technologies du web sémantique et des données 
 
 - [Linked Universities](http://linkeduniversities.org) est une alliance européenne d’universités engagées dans l’exposition de leurs données sous forme de données liées.
 - [Numéro spécial du Semantic Web Journal sur les données scientifiques liées](http://www.semantic-web-journal.net/blog/special-issue-linked-data-science-and-education)
+- [rOpenScience](https://ropensci.org)
+- [Science on GitHub](https://github.com/showcases/science)
+- [Run my code](http://www.runmycode.org/CompanionSite/)
+- Assante, Massimiliano, Leonardo Candela, Donatella Castelli, Paolo Manghi, and Pasquale Pagano. "Science 2.0 Repositories: Time for a Change in Scholarly Communication."* D-Lib Magazine *21, no. 1/2 (2015). http://www.dlib.org/dlib/january15/assante/01assante.html
 
 ## Standards et bonnes pratiques
 
 - [Data on the Web Best Practices, W3C Proposed Recommendation, 15 décembre 2016](https://www.w3.org/TR/dwbp/)
 - [Best Practices for Publishing Linked Data, W3C Working Group Note 09 January 2014](https://www.w3.org/TR/ld-bp/)
 - [W3C Linked data activity](https://www.w3.org/standards/semanticweb/data)
+- https://www.force11.org/group/joint-declaration-data-citation-principles-final
