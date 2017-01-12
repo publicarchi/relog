@@ -12,6 +12,11 @@ Dans une telle perspective, les technologies du web sémantique et des données 
 - [Science on GitHub](https://github.com/showcases/science)
 - [Run my code](http://www.runmycode.org/CompanionSite/)
 - Assante, Massimiliano, Leonardo Candela, Donatella Castelli, Paolo Manghi, and Pasquale Pagano. "Science 2.0 Repositories: Time for a Change in Scholarly Communication."* D-Lib Magazine *21, no. 1/2 (2015). http://www.dlib.org/dlib/january15/assante/01assante.html
+  - Sateli, Bahar, and René Witte. "Semantic Representation of Scientific Literature: Bringing Claims, Contributions and Named Entities Onto the Linked Open Data Cloud."* PeerJ Computer Science *1 (2015): doi:10.7717/peerj-cs.37.
+- Golden, Patrick, and Ryan Shaw. "Nanopublication Beyond the Sciences: The PeriodO Period Gazetteer."* PeerJ Computer Science *2 (2016): doi:10.7717/peerj-cs.44.
+- Groth, Paul, Andrew Gibson, and Johannes Velterop. "The Anatomy of a Nano-publication. Url: Http://www. W3. Org/wiki/images/c/c0." In *HCLSIG SWANSIOC Actions RhetoricalStructure Meetings 20100215 Cwa-anatomy-nanopub-v3. Pdf (besucht Am 18. 07. 2013).* 2010.
+- Kuhn, Tobias, Christine Chichester, Michael Krauthammer, Núria Queralt-Rosinach, Ruben Verborgh, George Giannakopoulos, Axel-Cyrille Ngonga Ngomo, Raffaele Viglianti, and Michel Dumontier. "Decentralized Provenance-aware Publishing with Nanopublications."* PeerJ Computer Science *2 (2016): doi:10.7717/peerj-cs.78.
+- @todo http://jsonld.com
 
 ## Standards et bonnes pratiques
 
