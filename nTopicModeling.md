@@ -18,13 +18,13 @@ cf. http://webapp1.dlib.indiana.edu/newton/lsa/
 
 Cette technique fut d’abord significativement améliorée par Puzicha et Hofmann en 1999 par l’introduction reposant sur l’utilisation de l’algèbre linéaire pour obtenir un modèle probabiliste désigné l’[analyse sémantique latente probabiliste](http://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis) (*probabilistic latent semantic analysis* (pLSA) en anglais). Celle-ci consiste à ajouter un niveau d’analyse qui serait les sujets ou les domaines (*topics*). [Blei et ses collègues](http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf) ont considérablement fait évolué cette idée en en un modèle génératif probabiliste appelé l’[allocation de Dirichlet latente](https://fr.wikipedia.org/wiki/Allocation_de_Dirichlet_latente) (*Latent Dirichlet Allocation* (LDA) en anglais). Avec cette méthode, les documents deviennent des ensemble de *topics* qui peuvent être étudiés. Même si ceux-ci n’existent-pas, ils offrent des représentations du contenu sémantique des documents, ce qui permet de les classifier.
 
-Si l’on peut générer des documents à partir de ce modèle, le processus peut également être employé pour inférer qu’un document se rattache à un modèle déjà dégagé. D’autre part, ces modèles peuvent être étendus pour rendre compte de changements et de variations temporels.
-
-Ce processus peut être employé pour inférer...
+Si l’on peut générer des documents à partir de ce modèle, le processus peut également être employé pour inférer qu’un document se rattache à un modèle déjà dégagé. D’autre part, ces modèles peuvent être étendus pour rendre compte de changements et de variations temporels. Ted Underwood et Lisa Rhode avancent que les historiens peuvent les appréhender, avec les précautions afférentes, comme des discours.
 
 ## Le topic modeling pour l’analyse du discours architectural
 
 Il n’est pas évident que cette approche soit adaptée pour analyser la formation de la critique architecturale. Au-delà de l’évidente proximité terminologique des textes que nous sommes conduits à étudier, c’est plutôt la structure de l’argumentation et la divergence des avis qui nous intéresse. Il faudrait évaluer dans quelle mesure ce type d’analyse prend en charge la simple négation et l’expression du dissensus dans un même domaine.
+
+Le topic modeling présente l’avantage de proposer un accès à la signification du texte sans le recours à une annotation lisible par la machine. Il présente également le potentiel de pouvoir aborder des évolutions longitudinales. Mais il n’est pas certain que l’approche probabiliste présente un niveau de preuve suffisant en histoire car elle suppose de formuler des jugements qui définissent largement la nature des résultats (choix des mots vides, nombre de topics sélectionnés, portée de la collection). Aussi les modèles produits sont construits et parfois difficiles à expliquer. Des approches plus directes comme la comparaison de corpus peuvent donc permettre de répondre de façon à la fois plus directe et plus transparente – et donc convaincante – à certaines questions. Enfin, ces méthodes sont relativement consommatrices de ressources computationnelles car elles impliquent la construction de variables pour chacun des mots du corpus.
 
 Plusieurs évaluations pourraient être conduites
 
@@ -35,10 +35,18 @@ Plusieurs évaluations pourraient être conduites
 ## Tutoriaux
 
 - Shawn Graham, Scott Weingart et Ian Miligan. Getting Started with Topic Modeling and MALLET. The Programming Historian, 2 septembre 2012. http://programminghistorian.org/lessons/topic-modeling-and-mallet
+- Underwood, Ted. "Seven ways humanists are using computers to understand text." The Stone and the Shell, 4 juin 2015. http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/
+- Underwood, Ted. "Topic modeling made just simple enough." The Stone and the Shell, 7 avril 2012. https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/
+
+## Outils
+
+Mallet, http://mallet.cs.umass.edu
 
 ## Sources
 
 - Scott Weingart. « Topic Modeling and Network Analysis. » the scottbot irregular, 15 novembre 2011. <http://www.scottbot.net/HIAL/index.html@p=221.html>
+
+- ​
 
   ​
 
