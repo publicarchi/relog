@@ -17,6 +17,7 @@ Dans une telle perspective, les technologies du web sémantique et des données 
 - Groth, Paul, Andrew Gibson, and Johannes Velterop. "The Anatomy of a Nano-publication. Url: Http://www. W3. Org/wiki/images/c/c0." In *HCLSIG SWANSIOC Actions RhetoricalStructure Meetings 20100215 Cwa-anatomy-nanopub-v3. Pdf (besucht Am 18. 07. 2013).* 2010.
 - Kuhn, Tobias, Christine Chichester, Michael Krauthammer, Núria Queralt-Rosinach, Ruben Verborgh, George Giannakopoulos, Axel-Cyrille Ngonga Ngomo, Raffaele Viglianti, and Michel Dumontier. "Decentralized Provenance-aware Publishing with Nanopublications."* PeerJ Computer Science *2 (2016): doi:10.7717/peerj-cs.78.
 - @todo http://jsonld.com
+- [Open Science Framework](https://cos.io)
 
 ## Standards et bonnes pratiques
 
