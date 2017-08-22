@@ -28,5 +28,9 @@ Rédiger note orientée dans direction projet
 - http://www.doranum.fr/2016/03/04/le-projet-doranum/
 - https://www.datacite.org
 - http://opendatacite.huma-num.fr
+- http://www.h2mw.eu/redactionmedicale/2017/03/analyse-de-la-loi-numérique-par-le-cnrs-.html
+- http://guides.biblio.polymtl.ca/donneesrecherche
 
 [1] Dans le cadre de l’Appel à projet européen Horizon 2020, les projets de recherche doivent adopter un plan de gestion de données. Par ailleurs un programme pilote intitulé Open Research Data ORD a été mis en place. cf. http://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf
+
+The Realities of Research Data Management, http://www.oclc.org/research/publications/2017/oclcresearch-research-data-management.html
