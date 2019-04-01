@@ -25,4 +25,7 @@ Il s’agit aussi d’expérimenter de nouvelles formes de distribution des rés
 
 ## Liens d’intérêt
 
-- C. Titus Brown. The top 10 reasons why blog posts are better than scientific papers. Living in an ivory basement, 7 janvier 2017. http://ivory.idyll.org/blog/2017-top-ten-reasons-blog-posts.html​
+- C. Titus Brown. The top 10 reasons why blog posts are better than scientific papers. Living in an ivory basement, 7 janvier 2017. http://ivory.idyll.org/blog/2017-top-ten-reasons-blog-posts.html
+- https://livecomsjournal.github.io
+- https://andrewgyork.github.io/publication_template/
+- https://en.wikipedia.org/wiki/Open-notebook_science

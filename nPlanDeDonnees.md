@@ -15,6 +15,29 @@ Voir référence canadienne dans le domaine
 
 Rédiger note orientée dans direction projet
 
+FAIR est un acronyme pour
+F = findable
+A = accessible
+I = interoperable
+R = reusable
+
+Le document de référence exposant les principes FAIR
+
+- Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3. <https://doi.org/10.1038/sdata.2016.18>
+
+Actualités
+
+- Wilkinson, M. D., Verborgh, R., Santos, L. O. B. da S., Clark, T., Swertz, M. A., Kelpin, F. D. L., … Dumontier, M. (2017). Interoperability and FAIRness through a novel combination of Web technologies. PeerJ Computer Science, 3, e110. <https://doi.org/10.7717/peerj-cs.110>
+- Wilkinson, M. D., Sansone, S.-A., Schultes, E., Doorn, P., Santos, L. O. B. da S., & Dumontier, M. (2017). A design framework and exemplar metrics for FAIRness. BioRxiv, 225490. <https://doi.org/10.1101/225490>
+- Mons, B., Neylon, C., Velterop, J., Dumontier, M., Santos, da S., Bonino, L. O., & Wilkinson, M. D. (2017). Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud. Information Services & Use, 37(1), 49‑56. <https://doi.org/10.3233/ISU-170824>
+
+Pour l’UE : le modèle FAIR a été intégré à l’été 2016 au document servant de guide aux projets financés par le programme cadre Horizon 2020 (<http://www.donneesdelarecherche.fr/IMG/pdf/lignes-directrices_gestion-donnees-fair_horizon2020_version_3.0_tr-fr.pdf>).
+
+> Mais ce modèle n’induit pas de changement concret dans les exigences de gestion des données (elles sont certes élargies à de nouveaux projets mais ce n’est pas lié directement à l’adoption de ce modèle). Il s’agit plutôt d’une nouvelle manière “conseillée” pour présenter les opérations liées à la gestion des données d’un projet (concrètement, un nouveau modèle de plan de gestion de données).
+> Les plans de gestion de données sont très liés au monde de la recherche, mais le travail en cours dans le monde des administrateurs d’entrepôts de données est peut-être plus directement transposable au contexte de l’open data “non scientifique”. Sur cela voir <https://www.youtube.com/watch?v=gAsDc08SuWk> et <https://www.youtube.com/watch?v=kuu7MR8-eCA>
+>
+> https://teamopendata.org/t/open-data-et-fair-deux-paradigmes-differents/220/3
+
 ## Ressources
 
 - [DMP OPIDoR](https://dmp.opidor.fr)
