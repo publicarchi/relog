@@ -17,3 +17,7 @@ Le projet est directement inspiré des Living Book of History lancée en 2016
 <https://www.infoclio.ch/fr/nouveau-living-book-histoires-de-l’internet-et-du-web>
 
 http://livingbooksabouthistory.ch/fr/
+
+Sur le sujet, voir Parkinson, Isabelle. 2018. « Can Curation Free the Anthology? Giorgio Agamben’s Apparatus and Against Expression: An Anthology of Conceptual Writing ». *Postmodern Culture* 28 (2). <https://doi.org/10.1353/pmc.2018.0013>.
+
+Notion de collections https://peterwebster.me/2018/02/20/the-edited-collection-pasts-present-and-future/
