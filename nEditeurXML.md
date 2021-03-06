@@ -36,8 +36,6 @@ Un soin tout particulier devrait être accordé au mode d’édition sans balise
 
 Il y a donc beaucoup de travail. Mais la possibilité de tirer partie du framework offert par Atom est une véritable occasion pour sortir de l’ornière.
 
-
-
 [1] Ce travail a fait l’objet de plusieurs publications et présentations publiques, notamment : Emmanuel Château, Marcello Vitali-Rosati, « Repenser la chaîne éditoriale numérique pour les revues savantes en sciences humaines », dans Congrès annuel de la Société canadienne des humanités numériques, Calgary, 28 au 3 juin 2016.
 
 
