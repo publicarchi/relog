@@ -63,3 +63,5 @@ https://ropensci.org/
 https://dmp.opidor.fr/
 
 https://www.ouvrirlascience.fr/plan-national-pour-la-science-ouverte/
+
+Atelier Données – groupe de travail inter réseaux de la MITI – CNRS. 2021. « Guide de bonnes pratiques sur la gestion des données de la recherche ». Consulté le 15 avril 2021. https://mi-gt-donnees.pages.math.unistra.fr/guide/00-introduction.html.
