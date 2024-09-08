@@ -4,8 +4,6 @@ since: 2017-01-22
 tags: fouille de textes
 ---
 
-
-
 # Fouille de texte
 
 Dominique Forest décrit les différentes étapes et processus de travail intervenant dans la fouille de texte https://youtu.be/zhdLGoIwKpA

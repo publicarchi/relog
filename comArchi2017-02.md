@@ -4,7 +4,7 @@ Communication Séminaire profession architecte, 28 avril 2017
 
 Bonjour à tous, 
 
-Avec cette courte intervention, plutôt que de présenter les résultats d’un travail qui est par ailleurs disponible dans ma thèse, je voudrais d’abord répondre à l’invitation formulée par Dominique Massounie au début de ce séminaire d’aborder des questions méthodologiques et ici suggérer des collaborations.
+Avec cette courte intervention, plutôt que de présenter les résultats d’un travail qui est par ailleurs disponible dans ma thèse de doctorat, je voudrais d’abord répondre à l’invitation formulée par Dominique Massounie au début de ce séminaire d’aborder des questions méthodologiques et ici suggérer des collaborations.
 
 ## Défense de l’opinion
 
